@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Shashank Sane and I am currently working as a Principal Consultant - Data Science/Machine Learning.
+My name is Shashank Sane and I am currently working as a Senior Data Scientist - Data Science/Machine Learning.
 
 I hold a Master's in ML/AI from Liverpool John Moores University (you can view my thesis presentation here: https://drive.google.com/open?id=1KajligYiFxAwDmnJi9bFN0gaILWXn_2X)
 
@@ -12,7 +12,6 @@ Curated ML/AI articles & resources: https://github.com/saneshashank/Reference-Li
 Curated list of ML/AI papers: https://github.com/saneshashank/ResearchPapers
 
 
-- 🔭 I’m currently working on ...cutting edge NLP applications - specifically how to make NLP techniques more domain aware.
-- 🌱 I’m currently learning ...Transformers which have taken the NLP world by storm!!.. have a look at following repo for curated resources: https://github.com/saneshashank/Transformers_research
-- 👯 I’m looking to collaborate on ...Quantum Computing...following is my repo for interesting resources: https://github.com/saneshashank/quantum_computing_resources
+- 🔭 I’m currently working on ...cutting edge NLP applications - specifically using LLMs like GPT to extract relevant Information from Contracts.
+- 🌱 I’m a believer in life long learning, learning how to learn efficiently: https://www.google.co.in/books/edition/Limitless/m2L6DwAAQBAJ?hl=en&gbpv=1&printsec=frontcover
 - 📫 How to reach me: ...https://www.linkedin.com/in/saneshashank/
